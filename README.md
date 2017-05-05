@@ -1,4 +1,4 @@
-###My main website to show graphic and web designs I have made.
+### My Portfolio Website
 ***
 
 While I had done some coursework in programming at school, my first major project when I decided to seriously work towards entering front-end development was to create a website.  The purpose of the website was to display my skills in web design, but also to show that I could do a modern web project independently.  After researching trends in web development, I found that I should be striving to create a responsive website with images that display projects I have worked on.
